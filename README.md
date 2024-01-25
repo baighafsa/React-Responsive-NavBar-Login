@@ -1,8 +1,22 @@
-# React + Vite
+# React Responsive Navbar and Login
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React application with a sticky navbar and login functionality using Bootstrap.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a React application showcasing a responsive navbar with sticky behavior and a login page styled using Bootstrap. The responsive design ensures optimal viewing across various devices.
+
+## Features
+
+- **Responsive Navbar:** A navigation bar that adapts to different screen sizes.
+- **Sticky Navbar:** The navbar sticks to the top for easy access during scrolling.
+- **Bootstrap Styles:** Utilizes Bootstrap for styling, ensuring a modern and clean appearance.
+- **Login Functionality:** Includes a login form with Bootstrap styling for user authentication.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+
