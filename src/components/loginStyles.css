@@ -1,0 +1,24 @@
+.wrapper{
+    height: 100vh;
+
+}
+
+.login{
+    width: 350px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 5px;
+    color: rgb(0, 34, 56);
+    background-color: rgb(174, 206, 236);
+    
+   
+}
+#remeberme{
+    padding-left: 4px;
+    padding-top: 2px;
+    color: grey;
+}
+.head{
+    font-weight: bold;
+    color: rgb(8, 57, 90);
+}
